@@ -21,9 +21,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  government!
+  language!
   rake
   rspec (~> 2.13, >= 2.13.0)
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
