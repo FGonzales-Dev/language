@@ -1,7 +1,7 @@
 # Government
 by [Francis Mamaril Gonzales](https://github.com/fgonzales1)
 
-Provides listing of different forms of government that you may need in your ruby applications.
+Provides listing of languages that you may need in your ruby applications.
 
 Data in this gem was taken from Github GIST and the following repos:
 

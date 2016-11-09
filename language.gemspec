@@ -4,11 +4,11 @@ require 'language/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "language"
-  gem.version       = Government::VERSION
+  gem.version       = Language::VERSION
   gem.authors       = ["Francis Mamaril Gonzales"]
   gem.email         = ["fgonzales@edukasyon.ph"]
-  gem.description   = %q{Provides listing of different forms of government that you may need in your ruby applications.}
-  gem.summary       = %q{List of Government}
+  gem.description   = %q{Provides listing of languages that you may need in your ruby applications.}
+  gem.summary       = %q{List of languages}
   gem.homepage      = "https://github.com/"
 
   gem.files         = `git ls-files`.split($/)
